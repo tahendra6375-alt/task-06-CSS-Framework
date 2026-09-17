@@ -1,0 +1,7 @@
+:root { --brand: #6c4cf6; --ink: #182230; }
+body { color: var(--ink); }
+.brand-hero { background: linear-gradient(135deg, #f2efff, #fff); }
+.btn-brand { background: var(--brand); color: #fff; border: 0; }
+.btn-brand:hover { background: #5939dc; color: #fff; }
+.badge { background: var(--brand); }
+.card { border: 1px solid #e6e8ef; border-radius: 16px; }
